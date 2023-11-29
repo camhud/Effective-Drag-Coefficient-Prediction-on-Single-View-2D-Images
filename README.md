@@ -1,0 +1,2 @@
+# Effective-Drag-Coefficient-Prediction-on-Single-View-2D-Images
+Code for the prediction of the drag coefficient of falling snowflakes given the 2D snowflake image, the shape class, and the Reynolds Number. The model is trained on the Locatelli and Hobbs dataset. Repository contains necessary files to remove the background on the image and process data with the machine learning model to replicate results.
